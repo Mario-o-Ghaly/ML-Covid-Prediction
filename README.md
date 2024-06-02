@@ -11,7 +11,7 @@ cd "5. Model & Utility Application Implementation\covid_prediction"
 python manage.py runserver
 ```
 
-Then, ctrl + click the link appearing in the terminal to navigate to the website frontend and try the final utility application.
+This command  runs the backend. Then, you should press ctrl + click the link appearing in the terminal to navigate to the website frontend and try the final utility application.
 
 **Note:** This website is built using Django, so if you do not have it, you will need to run the following command in your terminal.
 ```sh
