@@ -16,5 +16,6 @@ Then, ctrl + click the link appearing in the terminal to navigate to the website
 **Note:** This website is built using Django, so if you do not have it, you will need to run the following command in your terminal.
 ```sh
 pip install Django
+```
 
 Moreover, you will need to _pip install_ all the Python libraries required.
