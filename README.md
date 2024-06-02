@@ -9,6 +9,7 @@ Due to the lack of financial resources, the web application has not been hosted 
 ```sh
 cd "5. Model & Utility Application Implementation\covid_prediction"
 python manage.py runserver
+```
 
 Then, ctrl + click the link appearing in the terminal to navigate to the website frontend and try the final utility application.
 
