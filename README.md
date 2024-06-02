@@ -13,7 +13,7 @@ python manage.py runserver
 
 This command  runs the backend. Then, you should press ctrl + click the link appearing in the terminal to navigate to the website frontend and try the final utility application.
 
-**Note:** This website is built using Django, so if you do not have it, you will need to run the following command in your terminal.
+****Note:** This website is built using Django, so if you do not have it, you will need to run the following command in your terminal.
 ```sh
 pip install Django
 ```
